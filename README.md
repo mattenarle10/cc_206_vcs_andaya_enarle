@@ -1,6 +1,6 @@
-# cc206_exercise_unit3
+# cc206_exercise_unit3 by Matthew Enarle and Alecxander Andaya
 
-A new Flutter project.
+A new Flutter project. 
 
 ## Getting Started
 
